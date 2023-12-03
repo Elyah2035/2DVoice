@@ -30,7 +30,7 @@ cd $REPO_NAME
 3. Run the script:
 
 ```bash
-python sound.py
+python sound2.py
 ```
 
 ## Dependencies
