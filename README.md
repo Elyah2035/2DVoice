@@ -30,7 +30,7 @@ cd $REPO_NAME
 3. Run the script:
 
 ```bash
-python your_script_name.py
+python sound.py
 ```
 
 ## Dependencies
