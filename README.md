@@ -6,32 +6,32 @@ This Python program utilizes the Pygame and NumPy libraries to visualize the wav
 
 Make sure you have Python installed on your machine. You can install the required packages using:
 
-\`\`\`bash
+```bash
 pip install pygame numpy pydub
-\`\`\`
+```
 
 ## Usage
 
 1. Clone the repository:
 
-\`\`\`bash
-git clone https://github.com/your_username/$REPO_NAME.git
+```bash
+git clone https://github.com/Elyah2035/2DVoice.git
 cd $REPO_NAME
-\`\`\`
+```
 
 2. Change the audio file path in the script:
 
    Replace the following line with the path to your audio file:
 
-   \`\`\`python
+   ```python
    file_path = "VundabarAlienBlues.mp3"  # Change this to your audio file
-   \`\`\`
+   ```
 
 3. Run the script:
 
-\`\`\`bash
+```bash
 python your_script_name.py
-\`\`\`
+```
 
 ## Dependencies
 
@@ -41,5 +41,4 @@ python your_script_name.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-EOF
+I do not care
